@@ -1,0 +1,4 @@
+live-transcripts/
+.claude/keyguard.log
+node_modules/
+.env
