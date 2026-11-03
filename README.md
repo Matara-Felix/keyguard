@@ -1,5 +1,7 @@
 # keyguard
 
+![keyguard banner](assets/banner.png)
+
 Claude Code hooks that keep API keys and secret files out of the conversation, out of your code and out of git.
 
 Built by Felix Kebaya, https://kebayah.com
